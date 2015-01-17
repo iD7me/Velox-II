@@ -12,63 +12,63 @@
  */
 
 /*
- LANGUAGE:
+ LANGUAGE: Arabic
  Please enter the following information so we can accredit and reward you:
-  * Name to show up in preference bundle:
-  * Social media account to show up in preference bundle:
-  * Cydia ID so we can gift you the tweak:
- How we can contact you if needed:
+  * Name to show up in preference bundle: Abdulrahman
+  * Social media account to show up in preference bundle: @iD7me
+  * Cydia ID so we can gift you the tweak: ‪#1324588‬
+ How we can contact you if needed: expert.da@gmail.com
 */
 
 
-"BY_PHILLIP_TENNEN" = "By Phillip Tennen";
-"ENABLED" = "Enabled";
-"DARK_MODE" = "Dark Mode";
-"USE_FASTER_ANIMATIONS" = "Use Faster Animations";
+"BY_PHILLIP_TENNEN" = "بواسطة Phillip Tennen";
+"ENABLED" = "تمكين";
+"DARK_MODE" = "الوضع الداكن";
+"USE_FASTER_ANIMATIONS" = "إستخدام أسرع للحيوية";
 
-"ACTIVATION_METHOD" = "Activation Method";
-"SWIPE_UP" = "Swipe Up on icon";
-"SWIPE_DOWN" = "Swipe Down on icon";
-"DOUBLE_TAP" = "Double Tap on icon";
-"TRIPLE_TAP" = "Triple Tap on icon";
-"HOLD_ON_ICON" = "Hold on icon";
+"ACTIVATION_METHOD" = "طريقة التفعيل";
+"SWIPE_UP" = "سحب الأيقونة لأعلى";
+"SWIPE_DOWN" = "سحب الأيقونة لأسفل";
+"DOUBLE_TAP" = "ضغطتين على الأيقونة";
+"TRIPLE_TAP" = "ثلاث ضغطات على الايقونة";
+"HOLD_ON_ICON" = "ضغطة مستمرة على الايقونة";
 
-"PLUGIN_PREFERENCES" = "Plugin Preferences";
-"PLUGIN_PREFERENCES_FOOTER" = "Preferneces for your Velox plugins";
-"CHOOSE_VIEW" = "Velox View for App";
-"CHOOSE_VIEW_FOOTER" = "Choose which Velox view you would like for each app";
-"MORE" = "More";
+"PLUGIN_PREFERENCES" = "تفضيلات مساعدة";
+"PLUGIN_PREFERENCES_FOOTER" = "تفضيلات للـ Velox الخاصة بك";
+"CHOOSE_VIEW" = "عرض Velox للتطبيق";
+"CHOOSE_VIEW_FOOTER" = "تحديد مظهر Velox معين لأي تطبيق لديك";
+"MORE" = "أكثر";
 
-"NOTIFICATION_VIEW" = "Notification View"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+"NOTIFICATION_VIEW" = "عرض الاشعارات بدلاً من Velox"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
 
-"CREDITS" = "Credits";
+"CREDITS" = "ائتمانات";
 
-"PHILLIP_TITLE" = "Head Developer";
-"PHILLIP_SUBTITLE" = "Sounds like Morgan Freeman";
+"PHILLIP_TITLE" = "المطور الرئيسي";
+"PHILLIP_SUBTITLE" = "يبدو وكأنه Morgan Freeman";
 
-"STEVE_TITLE" = "Head Designer";
-"STEVE SUBTITLE" = "Steve is the designer of Velox 1 & 2";
+"STEVE_TITLE" = "المصمم الرئيسي";
+"STEVE SUBTITLE" = "Steve هو مصمم Velox 1 & 2";
 
-"UROBORO_TITLE" = "Co-developer";
-"UROBORO_SUBTITLE" = "Is most definitely a robot";
+"UROBORO_TITLE" = "شارك في التطوير";
+"UROBORO_SUBTITLE" = "هو بالتأكيد مجرد روبوت";
 
-"CORTEX_TITLE" = "The Team";
-"CORTEX_SUBTITLE" = "The team behind Velox";
+"CORTEX_TITLE" = "الفريق";
+"CORTEX_SUBTITLE" = "فريق عمل Velox";
 
-"MILO_TITLE" = "Assisting developer";
-"MILO_SUBTITLE" = "Designed and built the preference bundle";
+"MILO_TITLE" = "مساعد في التطوير";
+"MILO_SUBTITLE" = "ساعد في تصميم بناء حزم التفضيلات";
 
-"ETHAN_TITLE" = "Assissting developer";
-"ETHAN_SUBTITLE" = "Helped with Velox";
+"ETHAN_TITLE" = "مساعد في التطوير";
+"ETHAN_SUBTITLE" = "قدم المساعدة في Velox";
 
-"CYRIL_TITLE" = "Cortex Designer and Co-designer of Velox";
-"CYRIL_SUBTITLE" = "Helped with the design of Velox";
+"CYRIL_TITLE" = "مصمم Cortex و ساعد في تصميم Velox";
+"CYRIL_SUBTITLE" = "ساعد في تصميم Velox";
 
-"CHECK_IT_OUT" = "Check it out!";
-"STRATOS_FOOTER" = "Stratos is Cortex's other newest tweak. Check it out in Cydia!";
+"CHECK_IT_OUT" = "تحقق من هذا ايضاً!";
+"STRATOS_FOOTER" = "اداة Stratos هي اخر اداة لـ Cortex. تحقق من ذلك في السيديا!";
 
 /*
  Please leave the "%@" and "\n" keys alone; those are part of the code.
  For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
 */
-"ERROR_VIEW" = "%@\nThe developer of this extension has configured it incorrectly.\n Please ensure the class specified in the extension's Info.plist (for key veloxClass) has been loaded into SpringBoard.";
+"ERROR_VIEW" = "%@\nالتطوير لهذا الإمتداد تم تكوينه بشكل خاطئ.\n الرجاء التأكد من الفئة المخصصة لهذا الإمتداد Info.plist لـ veloxClass والتي سوف تتحمل في الشاشة الرئيسية.";
